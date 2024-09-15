@@ -1,0 +1,1 @@
+This file is updated with List comprehension and more efficient python code and later used in the Password Manager project.
